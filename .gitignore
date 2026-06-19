@@ -1,0 +1,5 @@
+# Configurações locais do Obsidian (por máquina)
+.obsidian/
+
+# Configurações locais do Claude Code (por máquina)
+.claude/
