@@ -10,7 +10,7 @@ tags:
 ---
 Classificação de Algoritmos
 
-Disciplina: Algoritmo e Lógica de Programação
+Disciplina: Algoritmos e Lógica de Programação
 Aula 2 - Classificação de Algoritmos
 
 Sumário

@@ -3,9 +3,9 @@ titulo: Paradigma Funcional (Programação Funcional)
 tipo: conceito
 tags: [paradigma, funcional, lisp, haskell, clojure, funcoes-puras, imutabilidade]
 disciplina: Linguagens de Programação
-fontes: [lp-m2-a01-paradigmas-de-programacao, lp-a02-classificacao-de-paradigmas, lp-a10-programacao-funcional-conceitos, lp-a11-programacao-funcional-clojure]
+fontes: [lp-m2-a01-paradigmas-de-programacao, lp-a02-classificacao-de-paradigmas, lp-a10-programacao-funcional-conceitos, lp-a11-programacao-funcional-clojure, lp-a12-programacao-funcional-outras-linguagens]
 criado: 2026-05-07
-atualizado: 2026-05-19
+atualizado: 2026-06-18
 ---
 
 # Paradigma Funcional
@@ -45,17 +45,26 @@ Linguagens funcionais puras (Sebesta, 2011) **não usam variáveis nem atribuiç
 
 | Tipo | Exemplos | Características |
 |------|----------|----------------|
-| **Puro** | Haskell | Sem variáveis, sem atribuição, sem laços; recursividade obrigatória |
-| **Geral** | Clojure, ML, Scheme | Agrega variáveis e outros recursos; maior versatilidade |
+| **Puro** | [Haskell](linguagem-haskell.md), ML | Sem variáveis, sem atribuição, sem laços; recursividade obrigatória |
+| **Geral** | Clojure, ML, [Scheme](linguagem-scheme.md) | Agrega variáveis e outros recursos; maior versatilidade |
+
+> Nota (LP A12): ML aparece nos dois lados conforme o recorte — é funcional, com sintaxe próxima das demais linguagens, e serve de contraste a Haskell, cuja sintaxe lembra sistemas de equações matemáticas.
 
 ## Linguagens representativas
 
 | Linguagem | Época | Nota |
 |-----------|-------|------|
-| Lisp | 1950–60s | Pioneira; base para IA |
-| Scheme, ML | 1970s | Derivadas de Lisp |
-| Haskell | 1980s | Funcional puro |
-| Clojure | 2000s | JVM + concorrência; usado no Nubank |
+| [Lisp](linguagem-lisp.md) | 1950–60s | Pioneira; átomos e listas; base para IA |
+| [Scheme](linguagem-scheme.md), ML | 1970s | Derivadas de Lisp; funções como valores/elementos de listas |
+| [Haskell](linguagem-haskell.md) | 1980s | Funcional puro; sintaxe matemática |
+| [Clojure](linguagem-clojure.md) | 2000s | JVM + concorrência; usado no Nubank |
+
+## Multiparadigma: o funcional agregado ao OO
+
+O funcional não vive só em linguagens dedicadas. Linguagens modernas o **agregam** ao orientado a objetos (LP A12):
+- **[Kotlin](linguagem-kotlin.md)** (JetBrains): permite funções fora de classes → código puramente funcional.
+- **Java (8+)**: incorpora lambda e recursos funcionais.
+- **Python**: usa o multiparadigma OO + funcional de forma natural, com sintaxe limpa (`def par(x): return (x % 2) == 0`).
 
 ## Vantagens
 
@@ -75,7 +84,7 @@ Lisp foi "base para estudos iniciais da chamada inteligência artificial" — co
 - [Funções Puras e Imutabilidade](funcoes-puras.md)
 - [Notação Prefixa](notacao-prefixa.md)
 - [Recursividade](recursividade.md)
-- [Linguagem Clojure](linguagem-clojure.md)
+- [Linguagem Lisp](linguagem-lisp.md), [Scheme](linguagem-scheme.md), [Haskell](linguagem-haskell.md), [Clojure](linguagem-clojure.md), [Kotlin](linguagem-kotlin.md)
 
 ## Fontes
 
@@ -83,3 +92,4 @@ Lisp foi "base para estudos iniciais da chamada inteligência artificial" — co
 - [LP A2 — Classificação de Paradigmas](../fontes/lp-a02-classificacao-de-paradigmas.md)
 - [LP A10 — Programação Funcional: Conceitos](../fontes/lp-a10-programacao-funcional-conceitos.md)
 - [LP A11 — Programação Funcional: Linguagem Clojure](../fontes/lp-a11-programacao-funcional-clojure.md)
+- [LP A12 — Programação Funcional: Outras Linguagens](../fontes/lp-a12-programacao-funcional-outras-linguagens.md)

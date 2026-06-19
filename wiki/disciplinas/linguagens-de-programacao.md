@@ -1,19 +1,19 @@
 ---
 titulo: Linguagens de Programação
 tipo: disciplina
-tags: [linguagens, paradigmas, compiladores, semantica, sintaxe, linguagem-c, funcional, clojure]
-fontes: [lp-m2-a01-paradigmas-de-programacao, lp-a02-classificacao-de-paradigmas, lp-a03-programacao-estruturada-conceitos, lp-a04-programacao-estruturada-linguagem-c, lp-a05-programacao-estruturada-outras-linguagens, lp-a06-poo-conceitos, lp-a07-poo-encapsulamento-heranca-polimorfismo, lp-a08-poo-linguagem-java, lp-a09-poo-outras-linguagens, lp-a10-programacao-funcional-conceitos, lp-a11-programacao-funcional-clojure]
+tags: [linguagens, paradigmas, compiladores, semantica, sintaxe, linguagem-c, funcional, logico, clojure, prolog, eventos, aspectos]
+fontes: [lp-m2-a01-paradigmas-de-programacao, lp-a02-classificacao-de-paradigmas, lp-a03-programacao-estruturada-conceitos, lp-a04-programacao-estruturada-linguagem-c, lp-a05-programacao-estruturada-outras-linguagens, lp-a06-poo-conceitos, lp-a07-poo-encapsulamento-heranca-polimorfismo, lp-a08-poo-linguagem-java, lp-a09-poo-outras-linguagens, lp-a10-programacao-funcional-conceitos, lp-a11-programacao-funcional-clojure, lp-a12-programacao-funcional-outras-linguagens, lp-a13-programacao-logica-conceitos, lp-a14-programacao-logica-prolog, lp-a15-outros-paradigmas]
 criado: 2026-05-07
-atualizado: 2026-05-19
+atualizado: 2026-06-18
 ---
 
 # Linguagens de Programação
 
 ## Ementa (conforme fontes ingeridas)
 
-Estudo dos paradigmas de programação e suas linguagens representativas. Critérios de avaliação de linguagens (legibilidade, facilidade de escrita, confiabilidade). Comparação entre abordagens imperativa, funcional e lógica via exemplos em diferentes linguagens.
+Estudo dos paradigmas de programação e suas linguagens representativas. Critérios de avaliação de linguagens (legibilidade, facilidade de escrita, confiabilidade). Comparação entre as abordagens imperativa (estruturada e OO), funcional e lógica via exemplos em diferentes linguagens, e introdução a paradigmas/formas adicionais (orientado a eventos, orientado a aspectos, programação dinâmica e programação em blocos).
 
-_Ementa será expandida conforme novas aulas forem ingeridas._
+Cobertura ingerida: M2 A1 a A15 — do conceito de paradigma à programação estruturada (C), POO (Java/Smalltalk/C++), funcional (Lisp, Scheme, Haskell, Clojure, Kotlin), lógica (Prolog) e outros paradigmas.
 
 ---
 
@@ -44,12 +44,24 @@ _Ementa será expandida conforme novas aulas forem ingeridas._
 - [Linguagem C++](../conceitos/linguagem-cpp.md) — C + OO; multiparadigma; construtores e destrutores
 - [Funções Puras e Imutabilidade](../conceitos/funcoes-puras.md) — núcleo do paradigma funcional
 - [Notação Prefixa](../conceitos/notacao-prefixa.md) — notação polonesa; operador antes dos operandos
+- [Linguagem Lisp](../conceitos/linguagem-lisp.md) — pioneira do funcional; átomos e listas
+- [Linguagem Scheme](../conceitos/linguagem-scheme.md) — derivada de Lisp; define/lambda
+- [Linguagem Haskell](../conceitos/linguagem-haskell.md) — funcional puro; sintaxe matemática
+- [Linguagem Kotlin](../conceitos/linguagem-kotlin.md) — multiparadigma (JetBrains)
 - [Linguagem Clojure](../conceitos/linguagem-clojure.md) — Lisp moderno na JVM; concorrência; Nubank
+- [Paradigma Lógico](../conceitos/paradigma-logico.md) — declarativo, não-procedural
+- [Lógica Formal](../conceitos/logica-formal.md) — proposições, operadores, tabelas-verdade
+- [Linguagem Prolog](../conceitos/linguagem-prolog.md) — fatos, regras, instâncias, comutatividade
+- [Programação Orientada a Eventos](../conceitos/programacao-orientada-a-eventos.md) — gatilhos, GUI, Arduino
+- [Programação Orientada a Aspectos](../conceitos/programacao-orientada-a-aspectos.md) — AspectJ, weaving
+- [Programação Dinâmica](../conceitos/programacao-dinamica.md) — otimização adaptativa
+- [Teoria de Grafos](../conceitos/teoria-de-grafos.md) — vértices, arestas, pesos
 
 ## Autores de Referência
 
 - [Sebesta (2011)](../autores/sebesta.md)
 - [Emerick (2012)](../autores/emerick.md)
+- [Gregor Kiczales](../autores/kiczales.md) — Programação Orientada a Aspectos / AspectJ
 
 ---
 
@@ -68,6 +80,10 @@ _Ementa será expandida conforme novas aulas forem ingeridas._
 | A9 | POO — Outras Linguagens (Smalltalk e C++) | [ver fonte](../fontes/lp-a09-poo-outras-linguagens.md) |
 | A10 | Programação Funcional — Conceitos | [ver fonte](../fontes/lp-a10-programacao-funcional-conceitos.md) |
 | A11 | Programação Funcional — Linguagem Clojure | [ver fonte](../fontes/lp-a11-programacao-funcional-clojure.md) |
+| A12 | Programação Funcional — Outras Linguagens | [ver fonte](../fontes/lp-a12-programacao-funcional-outras-linguagens.md) |
+| A13 | Programação Lógica — Conceitos | [ver fonte](../fontes/lp-a13-programacao-logica-conceitos.md) |
+| A14 | Programação Lógica — Linguagem Prolog | [ver fonte](../fontes/lp-a14-programacao-logica-prolog.md) |
+| A15 | Outros Paradigmas e Formas de Programação | [ver fonte](../fontes/lp-a15-outros-paradigmas.md) |
 
 ---
 

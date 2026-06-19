@@ -6,6 +6,25 @@ Dica: `grep "^## \[" log.md` lista todas as entradas.
 
 ---
 
+## [2026-06-18] ingest | LP (A12–A15) + Projeto Integrador (PESTEL A03–A04)
+
+Fontes ingeridas (6):
+- `raw/Aula 12 - Programação Funcional - Outras Linguagens.md` → lp-a12-programacao-funcional-outras-linguagens
+- `raw/Aula 13 - Programação Lógica - Conceitos.md` → lp-a13-programacao-logica-conceitos
+- `raw/Aula 14 - Programação Lógica - Linguagem Prolog.md` → lp-a14-programacao-logica-prolog
+- `raw/Aula 15 - Outros Paradigmas e Formas de Programação.md` → lp-a15-outros-paradigmas
+- `raw/AULA 03 CLARINE E HENRIQUE ANÁLISE PESTEL.md` → pi-aula03-pestel-social-tecnologico
+- `raw/AULA 04 HENRIQUE E CLARINE ANÁLISE PESTEL.md` → pi-aula04-pestel-ecologico-legal
+
+Conceitos criados (10): linguagem-lisp, linguagem-scheme, linguagem-haskell, linguagem-kotlin, logica-formal, linguagem-prolog, programacao-orientada-a-eventos, programacao-orientada-a-aspectos, programacao-dinamica, teoria-de-grafos
+Conceitos atualizados: paradigma-funcional (Scheme/Haskell/Kotlin/Python, multiparadigma), paradigma-logico (reescrito — declarativo/não-procedural, Prolog), recursividade (exemplos Scheme/Haskell), notacao-prefixa (Lisp/Scheme), analise-pestel (exemplos S/T/E/L + 2 fontes)
+Autor criado: kiczales (Gregor Kiczales — AspectJ / Xerox PARC)
+Disciplinas atualizadas: Linguagens de Programação 11 → 15 (módulo M2 completo); Projeto Integrador 4 → 6 (série PESTEL completa)
+Atualizados: index.md, overview.md (refeito)
+Arquivos movidos para `raw/ingeridos/`.
+
+---
+
 ## [2026-06-15] ingest | ALP — Aulas 09–16 (Aninhamento, Vetores, Matrizes, Registros, Sub-rotinas, Parâmetros, Recursividade, Arquivos)
 
 Fontes ingeridas (8 aulas):

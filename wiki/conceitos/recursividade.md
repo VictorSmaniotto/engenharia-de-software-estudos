@@ -3,9 +3,9 @@ titulo: Recursividade
 tipo: conceito
 tags: [algoritmo, recursividade, sub-rotinas, iteracao]
 disciplina: Algoritmo e Lógica de Programação
-fontes: [alp-a02-classificacao-de-algoritmos, lp-a02-classificacao-de-paradigmas]
+fontes: [alp-a02-classificacao-de-algoritmos, lp-a02-classificacao-de-paradigmas, lp-a12-programacao-funcional-outras-linguagens]
 criado: 2026-05-07
-atualizado: 2026-05-07
+atualizado: 2026-06-18
 ---
 
 # Recursividade
@@ -50,6 +50,23 @@ FIM;
 ### Tabuada recursiva
 Dois parâmetros: `VALOR1` (decrementado a cada chamada) e `VALOR2` (fixo). O `ESCREVA` ocorre na *volta* das chamadas, exibindo a tabuada em ordem crescente apesar do decremento.
 
+## Exemplos em linguagens funcionais (LP A12)
+
+A recursão no funcional segue a mesma premissa (decisão + condição de parada), apenas com sintaxe própria:
+
+```scheme
+; Scheme — fatorial
+(define (fat n) (if (= n 0) 1 (* n (fat (- n 1)))))
+```
+
+```haskell
+-- Haskell — fatorial em duas equações
+fact 0 = 1
+fact n = n * fact (n - 1)
+```
+
+Em [linguagens funcionais puras](paradigma-funcional.md) (sem variáveis nem laços), a recursividade é **obrigatória**. Compiladores modernos podem converter recursões em iterações para ganhar desempenho. Ver [Linguagem Scheme](linguagem-scheme.md) e [Linguagem Haskell](linguagem-haskell.md).
+
 ## Recursão vs. Iteração
 
 A mesma potência pode ser implementada iterativamente com `PARA I DE 1 ATÉ EXPOENTE`. A versão iterativa é mais simples de raciocinar; a recursiva é mais elegante para problemas definidos naturalmente de forma recursiva. Ver [Sub-Rotinas](sub-rotinas.md).
@@ -59,3 +76,4 @@ A mesma potência pode ser implementada iterativamente com `PARA I DE 1 ATÉ EXP
 - [ALP A2 — Classificação de Algoritmos](../fontes/alp-a02-classificacao-de-algoritmos.md)
 - [LP A2 — Classificação de Paradigmas](../fontes/lp-a02-classificacao-de-paradigmas.md)
 - [ALP Aula 15 — Recursividade](../fontes/alp-aula15-recursividade.md)
+- [LP A12 — Programação Funcional: Outras Linguagens](../fontes/lp-a12-programacao-funcional-outras-linguagens.md)

@@ -1,7 +1,7 @@
 ---
 titulo: Índice da Wiki
 tipo: meta
-atualizado: 2026-05-28
+atualizado: 2026-06-18
 ---
 
 # Índice da Wiki — Engenharia de Software (Formação Acadêmica)
@@ -24,8 +24,8 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 | Página | Fontes ingeridas |
 |--------|-----------------|
 | [Algoritmo e Lógica de Programação](disciplinas/algoritmo-e-logica-de-programacao.md) | 17 |
-| [Linguagens de Programação](disciplinas/linguagens-de-programacao.md) | 11 |
-| [Projeto Integrador](disciplinas/projeto-integrador.md) | 4 |
+| [Linguagens de Programação](disciplinas/linguagens-de-programacao.md) | 15 |
+| [Projeto Integrador](disciplinas/projeto-integrador.md) | 6 |
 
 ---
 
@@ -53,6 +53,16 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 | [Linguagem Smalltalk](conceitos/linguagem-smalltalk.md) | LP | Linguagem fundadora do OO; tudo é objeto; origem do bytecode/JVM |
 | [Linguagem C++](conceitos/linguagem-cpp.md) | LP | C + OO; multiparadigma; construtores/destrutores; .hpp + .cpp |
 | [Linguagem Clojure](conceitos/linguagem-clojure.md) | LP | Lisp moderno na JVM; funcional; concorrência; usado no Nubank |
+| [Linguagem Lisp](conceitos/linguagem-lisp.md) | LP | Pioneira do funcional; átomos e listas; notação prefixa; raiz da IA |
+| [Linguagem Scheme](conceitos/linguagem-scheme.md) | LP | Derivada de Lisp; funções como valores; define/lambda; educacional |
+| [Linguagem Haskell](conceitos/linguagem-haskell.md) | LP | Funcional puro; sintaxe de equações matemáticas; recursividade obrigatória |
+| [Linguagem Kotlin](conceitos/linguagem-kotlin.md) | LP | Multiparadigma (JetBrains); funções fora de classes → funcional |
+| [Linguagem Prolog](conceitos/linguagem-prolog.md) | LP | Lógico; fatos, regras, instâncias, comutatividade; sistemas especialistas |
+| [Lógica Formal](conceitos/logica-formal.md) | LP | Proposições, operadores lógicos, tabelas-verdade |
+| [Programação Orientada a Eventos](conceitos/programacao-orientada-a-eventos.md) | LP | Gatilhos, GUI, design patterns, Arduino, blocos |
+| [Programação Orientada a Aspectos](conceitos/programacao-orientada-a-aspectos.md) | LP | AspectJ; pointcut/weaving; complemento transversal ao Java |
+| [Programação Dinâmica](conceitos/programacao-dinamica.md) | LP | Otimização adaptativa; subproblemas; grafos; Clojure |
+| [Teoria de Grafos](conceitos/teoria-de-grafos.md) | LP | Vértices, arestas, pesos; rotas; matriz de adjacência |
 | [Funções Puras e Imutabilidade](conceitos/funcoes-puras.md) | LP | Núcleo do paradigma funcional; sem efeitos colaterais; lambda |
 | [Notação Prefixa](conceitos/notacao-prefixa.md) | LP | Notação polonesa; operador antes dos operandos; padrão do funcional |
 | [Operadores e Expressões](conceitos/operadores-e-expressoes.md) | ALP | +, -, *, /, %, relacionais, lógicos (E/OU/NÃO), precedência, tabelas-verdade |
@@ -74,7 +84,7 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 | [Ponteiros](conceitos/ponteiros.md) | LP | Endereços de memória; passagem por referência em C |
 | [Paradigma Funcional](conceitos/paradigma-funcional.md) | LP/ALP | Imutabilidade, funções matemáticas |
 | [Paradigma Imperativo](conceitos/paradigma-imperativo.md) | LP/ALP | Categoria principal: execução ordenada, estado mutável |
-| [Paradigma Lógico](conceitos/paradigma-logico.md) | LP | Regras sem ordem definida; Prolog |
+| [Paradigma Lógico](conceitos/paradigma-logico.md) | LP | Declarativo, não-procedural; fatos e regras; Prolog |
 | [Paradigma Orientado a Objetos](conceitos/paradigma-oo.md) | LP/ALP | Derivação do imperativo; abstração em classes |
 | [Pseudocódigo](conceitos/pseudocodigo.md) | ALP | Portugol — representação de algoritmos próxima ao código |
 | [Recursividade](conceitos/recursividade.md) | ALP/LP | Sub-rotinas que chamam a si mesmas com condição de parada |
@@ -93,6 +103,7 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 | [Emerick (2012)](autores/emerick.md) | Clojure e concorrência/paralelismo |
 | [Ascencio (2012)](autores/ascencio.md) | Sintaxe de pseudocódigo com poucos símbolos; tríade com Forbellone e Manzano |
 | [Aguilar, Francis Joseph](autores/aguilar-francis-joseph.md) | Criador da Análise PESTEL (década de 1960) |
+| [Kiczales, Gregor](autores/kiczales.md) | Programação Orientada a Aspectos / AspectJ (Xerox PARC) |
 
 ---
 
@@ -119,6 +130,10 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 | [lp-a09](fontes/lp-a09-poo-outras-linguagens.md) | LP | A9 — POO: Outras Linguagens (Smalltalk e C++) |
 | [lp-a10](fontes/lp-a10-programacao-funcional-conceitos.md) | LP | A10 — Programação Funcional: Conceitos |
 | [lp-a11](fontes/lp-a11-programacao-funcional-clojure.md) | LP | A11 — Programação Funcional: Linguagem Clojure |
+| [lp-a12](fontes/lp-a12-programacao-funcional-outras-linguagens.md) | LP | A12 — Programação Funcional: Outras Linguagens (Lisp, Scheme, Haskell, Kotlin) |
+| [lp-a13](fontes/lp-a13-programacao-logica-conceitos.md) | LP | A13 — Programação Lógica: Conceitos (lógica formal, proposições) |
+| [lp-a14](fontes/lp-a14-programacao-logica-prolog.md) | LP | A14 — Programação Lógica: Linguagem Prolog |
+| [lp-a15](fontes/lp-a15-outros-paradigmas.md) | LP | A15 — Outros Paradigmas (eventos, aspectos, dinâmica) |
 | [alp-a09](fontes/alp-a09-atividade-pratica-quiz.md) | ALP | A9 (ativ.) — Atividade Prática: Quiz em Portugol |
 | [alp-aula09](fontes/alp-aula09-aninhamento-estruturas.md) | ALP | Aula 09 — Aninhamento de Estruturas de Controle |
 | [alp-aula10](fontes/alp-aula10-estruturas-homogeneas.md) | ALP | Aula 10 — Estruturas Homogêneas (Vetores) |
@@ -130,6 +145,8 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 | [alp-aula16](fontes/alp-aula16-manipulacao-arquivos.md) | ALP | Aula 16 — Manipulação de Arquivos de Texto |
 | [pi-aula01](fontes/pi-aula01-introducao-pestel.md) | PI | Aula 01 — Introdução ao Projeto Integrador e à Análise PESTEL |
 | [pi-aula02](fontes/pi-aula02-pestel-politica-economia.md) | PI | Aula 02 — Análise PESTEL: P (Político) e E (Econômico) |
+| [pi-aula03](fontes/pi-aula03-pestel-social-tecnologico.md) | PI | Aula 03 — Análise PESTEL: S (Social) e T (Tecnológico) |
+| [pi-aula04](fontes/pi-aula04-pestel-ecologico-legal.md) | PI | Aula 04 — Análise PESTEL: E (Ecológico) e L (Legal) |
 | [pi-material-pestel-completo](fontes/pi-material-pestel-completo.md) | PI | Material Escrito — Análise PESTEL Completa (P,E,S,T,E,L) |
 | [pi-mat-compl-et3](fontes/pi-mat-compl-et3.md) | PI | Material Complementar ET3 — Análise Legal (L) |
 

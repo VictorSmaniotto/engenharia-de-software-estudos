@@ -3,9 +3,9 @@ titulo: Notação Prefixa (Polonesa)
 tipo: conceito
 tags: [funcional, notacao-prefixa, notacao-polonesa, clojure, lisp]
 disciplina: Linguagens de Programação
-fontes: [lp-a10-programacao-funcional-conceitos, lp-a11-programacao-funcional-clojure]
+fontes: [lp-a10-programacao-funcional-conceitos, lp-a11-programacao-funcional-clojure, lp-a12-programacao-funcional-outras-linguagens]
 criado: 2026-05-19
-atualizado: 2026-05-19
+atualizado: 2026-06-18
 ---
 
 # Notação Prefixa (Polonesa)
@@ -52,6 +52,8 @@ A notação polonesa é utilizada em **calculadoras financeiras** (ex.: HP-12C) 
 ## Relações
 
 - [Paradigma Funcional](paradigma-funcional.md) — contexto do paradigma
+- [Linguagem Lisp](linguagem-lisp.md) — origem da notação no funcional (`(+ 5 5)`)
+- [Linguagem Scheme](linguagem-scheme.md) — parênteses como delimitadores e controle de precedência
 - [Linguagem Clojure](linguagem-clojure.md) — uso prático da notação
 - [Funções Puras e Imutabilidade](funcoes-puras.md) — conceito central do funcional
 
@@ -59,3 +61,4 @@ A notação polonesa é utilizada em **calculadoras financeiras** (ex.: HP-12C) 
 
 - [LP A10 — Programação Funcional: Conceitos](../fontes/lp-a10-programacao-funcional-conceitos.md)
 - [LP A11 — Programação Funcional: Linguagem Clojure](../fontes/lp-a11-programacao-funcional-clojure.md)
+- [LP A12 — Programação Funcional: Outras Linguagens](../fontes/lp-a12-programacao-funcional-outras-linguagens.md)

@@ -10,7 +10,7 @@ tags:
 ---
 Conceitos Gerais de Programação
 
-Disciplina: Algoritmo e Lógica de Programação
+Disciplina: Algoritmos e Lógica de Programação
 Aula 01 - Conceitos Gerais de Programação
 
 Sumário[1\. Formas de representação de soluções de problemas](#topico-01)[

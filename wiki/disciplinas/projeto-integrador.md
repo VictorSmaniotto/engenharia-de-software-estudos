@@ -2,9 +2,9 @@
 titulo: Projeto Integrador
 tipo: disciplina
 tags: [projeto-integrador, pestel, analise-estrategica, extensionista, gestao]
-fontes: [pi-aula01-introducao-pestel, pi-aula02-pestel-politica-economia, pi-material-pestel-completo, pi-mat-compl-et3]
+fontes: [pi-aula01-introducao-pestel, pi-aula02-pestel-politica-economia, pi-aula03-pestel-social-tecnologico, pi-aula04-pestel-ecologico-legal, pi-material-pestel-completo, pi-mat-compl-et3]
 criado: 2026-06-02
-atualizado: 2026-06-02
+atualizado: 2026-06-18
 ---
 
 # Projeto Integrador
@@ -26,8 +26,12 @@ Nota: historicamente é a disciplina com maior índice de reprovação na Unimar
 
 - [PI Aula 01 — Introdução ao Projeto Integrador e à Análise PESTEL](../fontes/pi-aula01-introducao-pestel.md)
 - [PI Aula 02 — Análise PESTEL: P (Político) e E (Econômico)](../fontes/pi-aula02-pestel-politica-economia.md)
+- [PI Aula 03 — Análise PESTEL: S (Social) e T (Tecnológico)](../fontes/pi-aula03-pestel-social-tecnologico.md)
+- [PI Aula 04 — Análise PESTEL: E (Ecológico) e L (Legal)](../fontes/pi-aula04-pestel-ecologico-legal.md)
 - [PI Material Escrito — Análise PESTEL Completa](../fontes/pi-material-pestel-completo.md)
 - [PI Material Complementar ET3 — Análise Legal](../fontes/pi-mat-compl-et3.md)
+
+> Com as Aulas 01–04, a série em vídeo cobre integralmente os seis fatores P-E-S-T-E-L.
 
 ## Conexões com outras disciplinas
 
