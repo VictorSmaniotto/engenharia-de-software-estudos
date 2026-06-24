@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Vetores e Matrizes
 tipo: conceito
 tags: [vetores, matrizes, estruturas-de-dados, linguagem-c, arrays, homogeneas]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [lp-a04-programacao-estruturada-linguagem-c, alp-aula10-estruturas-homogeneas, alp-aula11-estruturas-homogeneas-multidimensionais]
 criado: 2026-05-11
 atualizado: 2026-06-15

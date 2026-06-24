@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 15 — Recursividade"
 tipo: fonte
 tags: [recursividade, sub-rotina, condicao-de-parada, potencia, tabuada]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula15-recursividade]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 15 — Recursividade
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 15  
 **Data de ingestão:** 2026-06-15
 

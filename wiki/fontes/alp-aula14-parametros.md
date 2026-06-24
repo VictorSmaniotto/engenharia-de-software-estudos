@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 14 — Parâmetros em Sub-Rotinas"
 tipo: fonte
 tags: [parametro, argumento, passagem-por-valor, passagem-por-referencia, sub-rotina]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula14-parametros]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 14 — Parâmetros em Sub-Rotinas
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 14  
 **Data de ingestão:** 2026-06-15
 

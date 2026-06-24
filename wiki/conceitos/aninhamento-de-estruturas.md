@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Aninhamento de Estruturas de Controle
 tipo: conceito
 tags: [aninhamento, encadeamento, decisao, repeticao, teste-de-mesa]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula09-aninhamento-estruturas]
 criado: 2026-06-15
 atualizado: 2026-06-15

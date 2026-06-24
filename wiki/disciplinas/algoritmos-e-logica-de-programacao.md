@@ -1,5 +1,5 @@
----
-titulo: Algoritmo e Lógica de Programação
+﻿---
+titulo: Algoritmos e Lógica de Programação
 tipo: disciplina
 tags: [algoritmo, logica, pseudocodigo, fluxograma, paradigmas, operadores, tipos-de-dados, vetor, matriz, registro, sub-rotina, recursividade, arquivo]
 fontes: [alp-a01-conceitos-gerais-de-programacao, alp-a02-classificacao-de-algoritmos, alp-a03-analise-problemas-algoritmos, alp-a04-operadores-e-expressoes, alp-a05-tipos-de-dados, alp-a06-entrada-e-saida-de-dados, alp-a07-estruturas-de-decisao, alp-a08-estruturas-de-repeticao, alp-a09-atividade-pratica-quiz, alp-aula09-aninhamento-estruturas, alp-aula10-estruturas-homogeneas, alp-aula11-estruturas-homogeneas-multidimensionais, alp-aula12-estruturas-heterogeneas, alp-aula13-sub-rotinas, alp-aula14-parametros, alp-aula15-recursividade, alp-aula16-manipulacao-arquivos]
@@ -7,7 +7,7 @@ criado: 2026-05-07
 atualizado: 2026-06-15
 ---
 
-# Algoritmo e Lógica de Programação
+# Algoritmos e Lógica de Programação
 
 ## Ementa (conforme fontes ingeridas)
 

@@ -1,8 +1,8 @@
----
-titulo: "Algoritmo e Lógica de Programação — Aula 1: Conceitos Gerais de Programação"
+﻿---
+titulo: "Algoritmos e Lógica de Programação — Aula 1: Conceitos Gerais de Programação"
 tipo: fonte
 tags: [algoritmo, pseudocodigo, fluxograma, palavras-reservadas, logica-de-programacao]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: []
 criado: 2026-05-07
 atualizado: 2026-05-07
@@ -10,7 +10,7 @@ atualizado: 2026-05-07
 
 # ALP — Aula 1: Conceitos Gerais de Programação
 
-**Disciplina:** [Algoritmo e Lógica de Programação](../disciplinas/algoritmo-e-logica-de-programacao.md)
+**Disciplina:** [Algoritmos e Lógica de Programação](../disciplinas/algoritmos-e-logica-de-programacao.md)
 **Aula:** 1
 **Arquivo original:** `raw/ingeridos/Conceitos Gerais de Programação.md`
 **Autores de referência:** [Forbellone](../autores/forbellone.md), [Manzano](../autores/manzano.md)

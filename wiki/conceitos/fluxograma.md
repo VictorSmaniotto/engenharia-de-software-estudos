@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Fluxograma
 tipo: conceito
 tags: [algoritmo, fluxograma, diagrama, representacao]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-a01-conceitos-gerais-de-programacao]
 criado: 2026-05-07
 atualizado: 2026-05-07

@@ -1,4 +1,4 @@
----
+﻿---
 titulo: Forbellone
 tipo: autor
 tags: [algoritmo, pseudocodigo, portugol]
@@ -11,7 +11,7 @@ atualizado: 2026-05-07
 
 ## Contribuições Principais
 
-Autor de referência para a padronização de algoritmos em Portugol usada na disciplina de Algoritmo e Lógica de Programação. O material segue sua sintaxe como base, especialmente para a seção de palavras reservadas relacionadas a arquivos.
+Autor de referência para a padronização de algoritmos em Portugol usada na disciplina de Algoritmos e Lógica de Programação. O material segue sua sintaxe como base, especialmente para a seção de palavras reservadas relacionadas a arquivos.
 
 ## Obras Citadas nesta Wiki
 

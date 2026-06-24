@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Recursividade
 tipo: conceito
 tags: [algoritmo, recursividade, sub-rotinas, iteracao]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-a02-classificacao-de-algoritmos, lp-a02-classificacao-de-paradigmas, lp-a12-programacao-funcional-outras-linguagens]
 criado: 2026-05-07
 atualizado: 2026-06-18

@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Manipulação de Arquivos de Texto
 tipo: conceito
 tags: [arquivo, persistencia, crud, fda, forbellone, texto]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula16-manipulacao-arquivos]
 criado: 2026-06-15
 atualizado: 2026-06-15

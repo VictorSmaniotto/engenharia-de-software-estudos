@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 10 — Estruturas Homogêneas (Vetores)"
 tipo: fonte
 tags: [vetor, estrutura-homogenea, array, indice, busca]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula10-estruturas-homogeneas]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 10 — Estruturas Homogêneas (Vetores)
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 10  
 **Data de ingestão:** 2026-06-15
 

@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Registro (Estrutura Heterogênea)
 tipo: conceito
 tags: [registro, struct, heterogeneo, campos, banco-de-dados]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula12-estruturas-heterogeneas, alp-aula16-manipulacao-arquivos]
 criado: 2026-06-15
 atualizado: 2026-06-15

@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Sub-Rotinas (Procedimentos e Funções)
 tipo: conceito
 tags: [sub-rotina, procedimento, funcao, modularizacao, paradigma-estruturado, escopo, retorno]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula13-sub-rotinas, alp-aula14-parametros, alp-aula15-recursividade]
 criado: 2026-06-15
 atualizado: 2026-06-15

@@ -1,4 +1,4 @@
-# Log da Wiki — Engenharia de Software (Formação Acadêmica)
+﻿# Log da Wiki — Engenharia de Software (Formação Acadêmica)
 
 Log cronológico append-only. Cada entrada descreve uma operação significativa.
 
@@ -65,7 +65,7 @@ Páginas criadas:
 - `autores/aguilar-francis-joseph.md` (novo — criador do PESTEL, década de 1960)
 
 Páginas atualizadas:
-- `disciplinas/algoritmo-e-logica-de-programacao.md` (+A9)
+- `disciplinas/algoritmos-e-logica-de-programacao.md` (+A9)
 - `wiki/index.md` (+disciplina, +5 fontes, +3 conceitos, +1 autor)
 
 ---
@@ -86,7 +86,7 @@ Páginas criadas:
 - `conceitos/estruturas-de-repeticao.md` (nova)
 
 Páginas atualizadas:
-- `disciplinas/algoritmo-e-logica-de-programacao.md` (8 fontes no total; 3 novos conceitos)
+- `disciplinas/algoritmos-e-logica-de-programacao.md` (8 fontes no total; 3 novos conceitos)
 - `index.md` (atualizado — 3 conceitos, 3 fontes)
 
 Arquivos movidos para `raw/ingeridos/`.
@@ -111,7 +111,7 @@ Páginas criadas:
 
 Páginas atualizadas:
 - `conceitos/compilacao-e-interpretacao.md` (ALP A03 adicionada como fonte)
-- `disciplinas/algoritmo-e-logica-de-programacao.md` (5 fontes no total; 4 novos conceitos; Ascencio adicionado)
+- `disciplinas/algoritmos-e-logica-de-programacao.md` (5 fontes no total; 4 novos conceitos; Ascencio adicionado)
 - `index.md` (atualizado — 3 conceitos, 1 autor, 3 fontes)
 
 Arquivos movidos para `raw/ingeridos/`.
@@ -240,7 +240,7 @@ Páginas criadas/atualizadas:
 - `conceitos/recursividade.md` (nova — conecta com LP A2)
 - `conceitos/algoritmos-de-ordenacao.md` (nova)
 - `conceitos/paradigma-estruturado.md` (atualizada com exemplo de pseudocódigo de ALP)
-- `disciplinas/algoritmo-e-logica-de-programacao.md` (atualizada)
+- `disciplinas/algoritmos-e-logica-de-programacao.md` (atualizada)
 - `index.md` (atualizado)
 
 ---
@@ -249,7 +249,7 @@ Páginas criadas/atualizadas:
 
 Páginas criadas/atualizadas:
 - `fontes/alp-a01-conceitos-gerais-de-programacao.md` (nova)
-- `disciplinas/algoritmo-e-logica-de-programacao.md` (nova)
+- `disciplinas/algoritmos-e-logica-de-programacao.md` (nova)
 - `conceitos/pseudocodigo.md` (nova)
 - `conceitos/fluxograma.md` (nova)
 - `conceitos/palavras-reservadas.md` (nova)

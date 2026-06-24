@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Passagem de Parâmetros
 tipo: conceito
 tags: [parametro, argumento, passagem-por-valor, passagem-por-referencia, sub-rotina, var]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula14-parametros]
 criado: 2026-06-15
 atualizado: 2026-06-15

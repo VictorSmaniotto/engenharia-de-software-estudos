@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 16 — Manipulação de Arquivos de Texto"
 tipo: fonte
 tags: [arquivo, persistencia, crud, texto, forbellone, fda]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula16-manipulacao-arquivos]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 16 — Manipulação de Arquivos de Texto
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 16  
 **Data de ingestão:** 2026-06-15
 

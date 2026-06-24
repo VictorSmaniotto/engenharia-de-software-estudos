@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 09 — Aninhamento de Estruturas"
 tipo: fonte
 tags: [aninhamento, estruturas-de-controle, teste-de-mesa, decisao, repeticao]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula09-aninhamento-estruturas]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 09 — Aninhamento de Estruturas
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 09  
 **Data de ingestão:** 2026-06-15
 

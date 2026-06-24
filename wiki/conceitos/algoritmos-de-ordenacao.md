@@ -1,8 +1,8 @@
----
+﻿---
 titulo: Algoritmos de Ordenação
 tipo: conceito
 tags: [algoritmo, ordenacao, bubble-sort, merge-sort, classicos]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-a02-classificacao-de-algoritmos]
 criado: 2026-05-07
 atualizado: 2026-05-07
@@ -20,6 +20,8 @@ Algoritmos clássicos para ordenar coleções de dados. São exemplos de algorit
 - **Merge Sort** — algoritmo de ordenação por divisão e conquista; usa [recursividade](recursividade.md)
 
 _Detalhamento de implementação será expandido conforme as próximas aulas de ALP forem ingeridas._
+
+atualizado.
 
 ## Contexto
 

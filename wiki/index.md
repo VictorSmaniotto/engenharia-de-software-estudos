@@ -1,4 +1,4 @@
----
+﻿---
 titulo: Índice da Wiki
 tipo: meta
 atualizado: 2026-06-18
@@ -23,7 +23,7 @@ Catálogo de todas as páginas. Atualizado a cada ingestão.
 
 | Página | Fontes ingeridas |
 |--------|-----------------|
-| [Algoritmo e Lógica de Programação](disciplinas/algoritmo-e-logica-de-programacao.md) | 17 |
+| [Algoritmos e Lógica de Programação](disciplinas/algoritmos-e-logica-de-programacao.md) | 17 |
 | [Linguagens de Programação](disciplinas/linguagens-de-programacao.md) | 15 |
 | [Projeto Integrador](disciplinas/projeto-integrador.md) | 6 |
 

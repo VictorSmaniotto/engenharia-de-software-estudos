@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 11 — Estruturas Homogêneas Multidimensionais (Matrizes)"
 tipo: fonte
 tags: [matriz, multidimensional, estrutura-homogenea, tabuleiro, imagem]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula11-estruturas-homogeneas-multidimensionais]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 11 — Estruturas Homogêneas Multidimensionais (Matrizes)
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 11  
 **Data de ingestão:** 2026-06-15
 

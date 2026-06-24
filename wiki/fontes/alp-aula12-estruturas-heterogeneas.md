@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 12 — Estruturas de Dados Heterogêneas (Registros)"
 tipo: fonte
 tags: [registro, estrutura-heterogenea, campos, banco-de-dados]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula12-estruturas-heterogeneas]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 12 — Estruturas de Dados Heterogêneas (Registros)
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 12  
 **Data de ingestão:** 2026-06-15
 

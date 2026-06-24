@@ -1,4 +1,4 @@
----
+﻿---
 titulo: Overview — Formação Acadêmica em Engenharia de Software
 tipo: sintese
 tags: [visao-geral, formacao-academica]
@@ -15,7 +15,7 @@ Síntese em evolução. Atualizada conforme fontes são ingeridas.
 
 ## Disciplinas com material ingerido
 
-- [Algoritmo e Lógica de Programação](disciplinas/algoritmo-e-logica-de-programacao.md) — 17 fontes (A1–A16 + atividade)
+- [Algoritmos e Lógica de Programação](disciplinas/algoritmos-e-logica-de-programacao.md) — 17 fontes (A1–A16 + atividade)
 - [Linguagens de Programação](disciplinas/linguagens-de-programacao.md) — 15 fontes (M2 A1–A15; módulo completo)
 - [Projeto Integrador](disciplinas/projeto-integrador.md) — 6 fontes (série PESTEL completa P-E-S-T-E-L)
 
@@ -36,7 +36,7 @@ Compreender paradigmas permite ler novas linguagens mais rápido, decidir melhor
 
 ### Continuidade ALP → LP
 
-Conceitos firmados em **Algoritmo e Lógica de Programação** (pseudocódigo, sub-rotinas, [recursividade](conceitos/recursividade.md), [operadores lógicos](conceitos/operadores-e-expressoes.md), [vetores e matrizes](conceitos/vetores-e-matrizes.md)) reaparecem em **Linguagens de Programação** com roupagem de linguagens reais — a recursividade no funcional, os operadores lógicos na lógica formal, as matrizes como representação de grafos.
+Conceitos firmados em **Algoritmos e Lógica de Programação** (pseudocódigo, sub-rotinas, [recursividade](conceitos/recursividade.md), [operadores lógicos](conceitos/operadores-e-expressoes.md), [vetores e matrizes](conceitos/vetores-e-matrizes.md)) reaparecem em **Linguagens de Programação** com roupagem de linguagens reais — a recursividade no funcional, os operadores lógicos na lógica formal, as matrizes como representação de grafos.
 
 ### Eixo aplicado: Projeto Integrador
 

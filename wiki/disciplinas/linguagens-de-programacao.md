@@ -1,4 +1,4 @@
----
+﻿---
 titulo: Linguagens de Programação
 tipo: disciplina
 tags: [linguagens, paradigmas, compiladores, semantica, sintaxe, linguagem-c, funcional, logico, clojure, prolog, eventos, aspectos]
@@ -89,4 +89,4 @@ Cobertura ingerida: M2 A1 a A15 — do conceito de paradigma à programação es
 
 ## Conexões com Outras Disciplinas
 
-- **Algoritmo e Lógica de Programação**: conceitos de sub-rotinas (PROCEDIMENTO em pseudocódigo) e estruturas de repetição têm equivalentes diretos em C — ver [Paradigma Estruturado](../conceitos/paradigma-estruturado.md)
+- **Algoritmos e Lógica de Programação**: conceitos de sub-rotinas (PROCEDIMENTO em pseudocódigo) e estruturas de repetição têm equivalentes diretos em C — ver [Paradigma Estruturado](../conceitos/paradigma-estruturado.md)

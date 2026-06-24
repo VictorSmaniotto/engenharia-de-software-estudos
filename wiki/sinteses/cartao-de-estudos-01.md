@@ -1,4 +1,4 @@
----
+﻿---
 titulo: "Cartão de Estudos 01 — ALP e LP"
 tipo: sintese
 tags: [revisao, algoritmos, paradigmas, linguagens, criterios-de-avaliacao]
@@ -13,7 +13,7 @@ Cobre as 4 aulas ingeridas até 2026-05-07: ALP A1, ALP A2, LP M2 A1 e LP A2.
 
 ---
 
-## Algoritmo e Lógica de Programação
+## Algoritmos e Lógica de Programação
 
 **#1 — O que é um algoritmo e qual a diferença entre ele e um programa?**
 

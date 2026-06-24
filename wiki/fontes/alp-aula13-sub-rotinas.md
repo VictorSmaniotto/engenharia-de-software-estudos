@@ -1,8 +1,8 @@
----
+﻿---
 titulo: "ALP Aula 13 — Sub-Rotinas (Procedimentos e Funções)"
 tipo: fonte
 tags: [sub-rotina, procedimento, funcao, escopo, paradigma-estruturado, modularizacao]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: [alp-aula13-sub-rotinas]
 criado: 2026-06-15
 atualizado: 2026-06-15
@@ -10,7 +10,7 @@ atualizado: 2026-06-15
 
 # ALP Aula 13 — Sub-Rotinas (Procedimentos e Funções)
 
-**Disciplina:** Algoritmo e Lógica de Programação  
+**Disciplina:** Algoritmos e Lógica de Programação  
 **Módulo/Aula:** Aula 13  
 **Data de ingestão:** 2026-06-15
 

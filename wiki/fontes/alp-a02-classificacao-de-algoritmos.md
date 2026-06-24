@@ -1,8 +1,8 @@
----
-titulo: "Algoritmo e Lógica de Programação — Aula 2: Classificação de Algoritmos"
+﻿---
+titulo: "Algoritmos e Lógica de Programação — Aula 2: Classificação de Algoritmos"
 tipo: fonte
 tags: [algoritmo, classificacao, recursividade, ordenacao, paradigmas]
-disciplina: Algoritmo e Lógica de Programação
+disciplina: Algoritmos e Lógica de Programação
 fontes: []
 criado: 2026-05-07
 atualizado: 2026-05-07
@@ -10,7 +10,7 @@ atualizado: 2026-05-07
 
 # ALP — Aula 2: Classificação de Algoritmos
 
-**Disciplina:** [Algoritmo e Lógica de Programação](../disciplinas/algoritmo-e-logica-de-programacao.md)
+**Disciplina:** [Algoritmos e Lógica de Programação](../disciplinas/algoritmos-e-logica-de-programacao.md)
 **Aula:** 2
 **Arquivo original:** `raw/ingeridos/Classificação de Algoritmos.md`
 
